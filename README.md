@@ -51,13 +51,3 @@ Memory-Game/
 ## Preview
 
 Check out how the game looks by opening the screenshot above or running the project locally.
-
----
-
-Feel free to fork and improve the game!
-
-```
-
-### How to Add
-Save this content as `README.md` in the root directory of your project. It will automatically appear on your GitHub repository page.
-```
