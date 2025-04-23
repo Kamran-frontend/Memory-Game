@@ -4,6 +4,9 @@
 
 A simple and fun Memory Card Game built with HTML, CSS, and JavaScript. Test your memory by matching pairs of cards in the shortest time and with the fewest flips.
 
+## Play here
+https://kamran-frontend.github.io/Memory-Game/
+
 ## Features
 
 - Responsive design for mobile and desktop.
